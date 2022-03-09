@@ -1,9 +1,23 @@
-- Titre de l'oeuvre ou de la réalisation
-- Nom de l'artiste ou de la firme
-- Année de réalisation
-- Nom de l'exposition ou de l'événement
-- Lieu de mise en exposition
-- Date de votre visite
+# 3 Minutes (2021-2022) 
+
+3 Minutes est une installations créer et réaliser par les finissant de Troisième année du programme TIM (Techniques d'intégrations multimédias)
+Les étudiantes/étudiants presenteront leurs installations le lundi 28 mars dans le grand Studio, dans le cégep Montmorency (Laval).
+
+Nous avons eu la chance de visiter les coulisses des installations le 23 février 2022.
+
+L'oeuvre est décrite comme :
+
+* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
+
+# Membres de l'équipe : 
+
+* Naoufal Bensaiad
+
+* Jérémie Lévesque 
+
+* Samuel Poulin 
+
+
 - Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en **citant bien sa source**) 
 - Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 - Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
