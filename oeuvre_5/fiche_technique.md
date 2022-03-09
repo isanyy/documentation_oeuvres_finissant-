@@ -1,22 +1,56 @@
-- Titre de l'oeuvre ou de la réalisation
-- Nom de l'artiste ou de la firme
-- Année de réalisation
-- Nom de l'exposition ou de l'événement
-- Lieu de mise en exposition
-- Date de votre visite
-- Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en **citant bien sa source**) 
-- Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-- Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-- Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-- Expérience vécue :
-     
-    - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-     
-    - Ce qui vous a plu, vous a donné des idées et justifications
-      
-    - Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
- 
- - Références 
+# L'horloge du l'apocalypse (2021 - 2022)
+
+L'horloge de l'apocalypse est une installations créer et réaliser par les finissant de Troisième année du programme TIM (Techniques d'intégrations multimédias)
+Les étudiantes/étudiants presenteront leurs installations le lundi 28 mars dans le petit Studio, dans le cégep Montmorency (Laval).
+
+Nous avons eu la chance de visiter les coulisses des installations le 23 février 2022.
+
+L'oeuvre est décrite comme :
+
+L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. 
+
+Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale.
+
+* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+
+# Mise en espace de l'oeuvre 
+
+L'oeuvre est installé dans le petit studio du Cégep,
+
+Pour son fonctionnement elle utilise les projecteurs (3) ainsi que les hauts parleurs (4) présent dans le petit studio.
+
+Niveau Accesoire, les artistes ont utilisées une vielle horloge, un piedéstal ainsi qu'un ancien téléphone. 
+
+Pour pouvoir projeter les illustrations, le groupe a suspendu des voiles blancs permettant une visualisation sur le mur.
+
+# Expérience Vécue 
+
+Les illustrations étaient bien excécutées et accompagner par des bandes sonores réaliser par le groupe eux mêmes.
+
+Sur la partie interraction, nous n'avons pas vu tester car les étudiants étaient encore entrain de monter l'oeuvre.
+
+
+
+
+
+# Membres de l'équipe 
+
+* Maxime Sabourin 
+
+* Louis Phillipe-Gravel 
+
+* Alexis Lacasse  
+
+* Tristan Girard-Montpetit 
+
+* Maxime De Falco 
+
+
+
+
+
+
+
 
 
 
