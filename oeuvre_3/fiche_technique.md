@@ -34,7 +34,7 @@ Le type d'ambiance exploité est celle d'un jeu télévisé classique où l'on r
 
 # l'installation en cours dans les studios (photos à l'appui)
 
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium-wide.jpeg)
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_3/medias/vue_ensemble_gauche.heic)
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_installation.jpg)
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium.jpeg)
