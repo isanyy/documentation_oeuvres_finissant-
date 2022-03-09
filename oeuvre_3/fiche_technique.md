@@ -47,6 +47,7 @@ Le type d'ambiance exploité est celle d'un jeu télévisé classique où l'on r
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
 
 une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+
 une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
 
@@ -54,24 +55,3 @@ une composante technologique* qui sera utilisée dans l'une des oeuvres et que v
 
 
 
-
-- photographie de l'oeuvre ou du dispositif dans son ensemble:
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium-wide.jpeg)
-
-- photographies des composantes de l'oeuvre:
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_installation.jpg)
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium.jpeg)
-
-- photographies des éléments nécessaires à sa mise en espace:
-
-- photographie du cartel ou du panneau explicatif:
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
-
-- autoportrait (photo) de vous avec l'oeuvre:
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
-
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation):
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
-
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
