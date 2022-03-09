@@ -24,21 +24,32 @@ Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut ré
 
 
 
+# Le thème du temps
+  Dans ce projet le thème du temps est exploité de façons à mettre en parralèlle deux passages de la vie de sasha en présentent sont environement et son étas d'esprit en quelques sortes. 
 
 
-- Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en **citant bien sa source**) 
-- Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-- Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-- Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-- Expérience vécue :
-     
-    - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-     
-    - Ce qui vous a plu, vous a donné des idées et justifications
-      
-    - Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
- 
- - Références 
+# l'ambiance
+  il y aura deux type d'ambience pour illustrer les deux moment de sa vie. En premier, quand elle est adolescente il y aura une ambiance de chambre en desorde, goutte de pluie dans les fenêtres et un ambiance plutot lourde et déprimé. Ensuite, quand elle sera adulte tout semblera plus leger avec des couleur tels que le blanc et un style plus épurer et minimaliste.
+
+# l'installation en cours dans les studios (photos à l'appui)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium-wide.jpeg)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_installation.jpg)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium.jpeg)
+# le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+
+
+# ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+
+
+# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
+
+une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+
+
+
+
 
 
 
