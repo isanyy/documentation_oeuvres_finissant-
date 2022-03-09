@@ -11,7 +11,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 
 Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale.
 
-* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+[Site du projet](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 
 # Mise en espace de l'oeuvre 
 
