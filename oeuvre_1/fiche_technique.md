@@ -1,6 +1,6 @@
 # Chère Sasha (2021-2022)
 
-Chère Sasha est une installations créer et réaliser par les finissant de Troisième année du programme TIM (Techniques d'intégrations multimédias) Les étudiantes/étudiants presenteront leurs installations le lundi 28 mars dans le petit Studio, dans le cégep Montmorency (Laval).
+Chère Sasha est une installations créer et réaliser par les finissant de Troisième année du programme TIM (Techniques d'intégrations multimédias) Les étudiantes/étudiants presenteront leurs installations le lundi 28 mars dans le grand Studio, dans le cégep Montmorency (Laval).
 
 Nous avons eu la chance de visiter les coulisses des installations le 23 février 2022.
 
