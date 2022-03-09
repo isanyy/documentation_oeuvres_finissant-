@@ -45,7 +45,9 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
 1)Programmation interactive et base de données session 3 / proggramation serveur web session 4 (pour programmer le site web qui recevra les messages, les stocker pour ensuite les projeter.
+
 2)Conception sonore sessions3 (pour crée la bande son qui sera ensuite joué lors de la mise en oeuvre)
+
 3) espace inteactif session 5 ( pour contrôler tout les dispositifs qui seront utilisé pour permetre a l'oeuvre de fonctionner, tels que le son, les lumières et la bande vidéo)
 
 une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
