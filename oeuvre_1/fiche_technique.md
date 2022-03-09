@@ -38,7 +38,7 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-
+![croquis plantation](croquis/plantation_chere_sasha.jpg)
 
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
