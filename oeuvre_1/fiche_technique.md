@@ -14,8 +14,6 @@ Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais se
 
 Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.
 
-* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html
-
  [Le site du projet](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
 
