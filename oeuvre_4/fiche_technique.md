@@ -29,26 +29,33 @@ Quand le participant s'arrête et fait face à un des grands tableaux, ce dernie
 
 
 
-- Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en **citant bien sa source**) 
-- Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-- Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-- Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-- Expérience vécue :
-     
-    - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-     
-    - Ce qui vous a plu, vous a donné des idées et justifications
-      
-    - Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
- 
- - Références 
+# Le thème du temps
+Dans cette oeuvre le thème du temps est démontré sous-forme de ligne du temps où l'interacteur va parcourir le future sous une expérience interactive démontrant les conséquences écologiques importantes de nos actions par rapport à ce futur proche.
+
+
+# l'ambiance
+Le type d'ambiance exploité est celle d'un jeu télévisé classique où l'on retrouve des éléments ambiants énergiques telles que de la musique entrainante ainsi que des effets sonores interactives mettant de la vie au jeu. On retrouvera également des couleurs vivantes et éclatantes donnant un aspect invitant aux joueurs avec ces effets tout droits sorti d'un animé.
+  
+
+# l'installation en cours dans les studios (photos à l'appui)
+
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_3/medias/vue_ensemble_gauche.heic)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_installation.jpg)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium.jpeg)
+# le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+
+
+# ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+
+
+# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
+
+une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+
+une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
 
 
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+
+
