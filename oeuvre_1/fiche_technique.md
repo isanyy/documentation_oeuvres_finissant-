@@ -28,11 +28,11 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 * Sabrina Kayani 
 
 # Le thème du temps
-  Dans ce projet le thème du temps est exploité 
+  Dans ce projet le thème du temps est exploité de façons à mettre en parralèlle deux passages de la vie de sasha en présentent sont environement et son étas d'esprit en quelques sortes. 
 
 
 # l'ambiance
-
+  il y aura deux type d'ambience pour illustrer les deux moment de sa vie. En premier, quand elle est adolescente il y aura une ambiance de chambre en desorde, goutte de pluie dans les fenêtres et un ambiance plutot lourde et déprimé. Ensuite, quand elle sera adulte tout semblera plus leger avec des couleur tels que le blanc et un style plus épurer et minimaliste.
 
 # l'installation en cours dans les studios (photos à l'appui)
 
