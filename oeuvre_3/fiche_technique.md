@@ -42,10 +42,23 @@ Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut ré
 
 
 
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+- photographie de l'oeuvre ou du dispositif dans son ensemble:
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium-wide.jpeg)
+
+- photographies des composantes de l'oeuvre:
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_installation.jpg)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
+![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium.jpeg)
+
+- photographies des éléments nécessaires à sa mise en espace:
+
+- photographie du cartel ou du panneau explicatif:
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
+
+- autoportrait (photo) de vous avec l'oeuvre:
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
+
+- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation):
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
+
 - possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
