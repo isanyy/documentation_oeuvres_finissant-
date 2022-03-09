@@ -25,13 +25,15 @@ Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut ré
 
 
 # Le thème du temps
-  Dans ce projet le thème du temps est exploité de façons à mettre en parralèlle deux passages de la vie de sasha en présentent sont environement et son étas d'esprit en quelques sortes. 
+Dans cette oeuvre le thème du temps est démontré sous-forme de ligne du temps où l'interacteur va parcourir le future sous une expérience interactive démontrant les conséquences écologiques importantes de nos actions par rapport à ce futur proche.
 
 
 # l'ambiance
-  il y aura deux type d'ambience pour illustrer les deux moment de sa vie. En premier, quand elle est adolescente il y aura une ambiance de chambre en desorde, goutte de pluie dans les fenêtres et un ambiance plutot lourde et déprimé. Ensuite, quand elle sera adulte tout semblera plus leger avec des couleur tels que le blanc et un style plus épurer et minimaliste.
+Le type d'ambiance exploité est celle d'un jeu télévisé classique où l'on retrouve des éléments ambiants énergiques telles que de la musique entrainante ainsi que des effets sonores interactives mettant de la vie au jeu. On retrouvera également des couleurs vivantes et éclatantes donnant un aspect invitant aux joueurs avec ces effets tout droits sorti d'un animé.
+  
 
 # l'installation en cours dans les studios (photos à l'appui)
+
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium-wide.jpeg)
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_installation.jpg)
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
