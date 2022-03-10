@@ -50,9 +50,11 @@ L'ambiance est du type muséal où l'on retrouve des caractéristiques communes 
 ![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/installation.jpg)
 ![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/piedestale.jpg)
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/plan_technique.png)
-![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/Schema_branchement.png)
 * *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/plan_technique.png)
+* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/Schema_branchement.png)
+
 
 
 
@@ -62,13 +64,21 @@ Nous seront attendu de rentrer dans l'univers du projet en marchant sur un tapis
 
 
 
-# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
+# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
 
-une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+*1.* Animation 2D: Afin de produire des images animées et permettre un mouvement fluide et synchronisé des ceux-ci.
 
-une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+*2.* Programmation interactive et bases de données: afin d'acquérir les compétences nécessaires en programmation dans un contexte interactif ainsi que pour l'organisation des bases de données.
 
+*3.* Conception sonore interactive: afin de permettre aux concepteurs de créer des compositions sonores interactives et en temps réel.
 
+# Une technique qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+*La Kinect:* C'est un périphérique destiné permettant de contrôler une interface sans utiliser de manette. Dans ce cas, elle permet à l'utilsateur d'animer leurs gestes et mouvements.
+* *ceci est tiré du site Wikipedia* :https://fr.wikipedia.org/wiki/Kinect
+
+# Une composante technologique qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+*Max 8:* C'est un espace infiniment flexible pour créer votre propre logiciel interactif.
+* *ceci est tiré du site Cycling74* :https://cycling74.com/products/max
 
 
 
