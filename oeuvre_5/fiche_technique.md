@@ -51,6 +51,25 @@ Pour pouvoir projeter les illustrations, le groupe a suspendu des voiles blancs 
 
 ![voile_blanc](medias/oeuvre_5_petit_studio.jpg)
 
+# 
+
+# Logiciel utiliser 
+
+ *Illustration Numérique, Photoshop (logiciel de retouche,traitement d'image et dessin) 
+
+ *Conception Sonore, Max (logiciel de conception sonore) 
+
+ *Conception vidéo, OBS (logiciel de capture d'écran)
+
+# Technique non connus 
+
+* Max 8 
+
+# Composante de la technique 
+
+Max 8 est une platforme qui permet de créer ses propres instrument et effets sonores pour des performances live ou bien visuel.
+
+![max_8](medias/oeuvre_5_max_8_logiciel.png)
 
 # Expérience Vécue 
 
