@@ -30,11 +30,14 @@ Quand le participant s'arrête et fait face à un des grands tableaux, ce dernie
 
 
 # Le thème du temps
-Dans cette oeuvre le thème du temps est démontré sous-forme de ligne du temps où l'interacteur va parcourir le future sous une expérience interactive démontrant les conséquences écologiques importantes de nos actions par rapport à ce futur proche.
+Dans cette oeuvre le thème du temps est illustré sous forme de passage et d'étape de la vie où il est démontré qu'il y est important de prendre des pauses et du temps pour soi. L'eau est également utilisée comme symbole du temps.
+* *ceci est inspiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
 
 
 # l'ambiance
-Le type d'ambiance exploité est celle d'un jeu télévisé classique où l'on retrouve des éléments ambiants énergiques telles que de la musique entrainante ainsi que des effets sonores interactives mettant de la vie au jeu. On retrouvera également des couleurs vivantes et éclatantes donnant un aspect invitant aux joueurs avec ces effets tout droits sorti d'un animé.
+L'ambiance est du type muséal où l'on retrouve des caractéristiques communes d'une salle de musée d'art comprenant des tapis rouges, des cadres artistiques, des projections de cadres et d'autres oeuvres d'art. Le tout sera démontré dans un éclairage à faible intensité tout au long de l'expérience donnant un aspect plus immersif au thème inspirer de l'eau et de l'univers.
+* *ceci est inspiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.ht
+
   
 
 # l'installation en cours dans les studios (photos à l'appui)
@@ -46,7 +49,10 @@ Le type d'ambiance exploité est celle d'un jeu télévisé classique où l'on r
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 
 
-# ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+# ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation:
+Nous seront attendu rentrer dans l'univers du projet en marchant sur un tapis où l'on retrouvera quatre grands tableaux immobiles. Ensuite, le participant devra s'arrêter et faire face à un des grands tableaux et celui-ci s'animera selon la position et les gestes de l'interacteur.
+* *ceci est inspiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
+
 
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme
