@@ -3,6 +3,8 @@
 L'horloge de l'apocalypse est une installations créer et réaliser par les finissant de Troisième année du programme TIM (Techniques d'intégrations multimédias)
 Les étudiantes/étudiants presenteront leurs installations le lundi 28 mars dans le petit Studio, dans le cégep Montmorency (Laval).
 
+Les finissant/es ont eu pour thème de créer leurs installations.
+
 Nous avons eu la chance de visiter les coulisses des installations le 23 février 2022.
 
 L'oeuvre est décrite comme :
@@ -51,15 +53,15 @@ Pour pouvoir projeter les illustrations, le groupe a suspendu des voiles blancs 
 
 ![voile_blanc](medias/oeuvre_5_petit_studio.jpg)
 
-# 
+
 
 # Logiciel utiliser 
 
- *Illustration Numérique, Photoshop (logiciel de retouche,traitement d'image et dessin) 
+* Illustration Numérique, Photoshop (logiciel de retouche,traitement d'image et dessin) 
 
- *Conception Sonore, Max (logiciel de conception sonore) 
+* Conception Sonore, Max (logiciel de conception sonore) 
 
- *Conception vidéo, OBS (logiciel de capture d'écran)
+* Conception vidéo, OBS (logiciel de capture d'écran)
 
 # Technique non connus 
 
