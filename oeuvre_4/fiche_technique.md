@@ -41,11 +41,14 @@ L'ambiance est du type muséal où l'on retrouve des caractéristiques communes 
   
 
 # l'installation en cours dans les studios (photos à l'appui)
-
-![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_3/medias/vue_ensemble_gauche.heic)
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_installation.jpg)
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
-![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium.jpeg)
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/vue_ensemble.jpg)
+* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/equipements.jpg)
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/projecteur_installation.jpg)
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/compostantes_informatiques.jpg)
+* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/installation.jpg)
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/piedestale.jpg)
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/plan_technique.png)
 ![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/Schema_branchement.png)
@@ -53,9 +56,8 @@ L'ambiance est du type muséal où l'on retrouve des caractéristiques communes 
 
 
 
-
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation:
-Nous seront attendu rentrer dans l'univers du projet en marchant sur un tapis où l'on retrouvera quatre grands tableaux immobiles. Ensuite, le participant devra s'arrêter et faire face à un des grands tableaux et celui-ci s'animera selon la position et les gestes de l'interacteur.
+Nous seront attendu de rentrer dans l'univers du projet en marchant sur un tapis où l'on retrouvera quatre grands tableaux immobiles. Ensuite, le participant devra s'arrêter et faire face à un des grands tableaux et celui-ci s'animera selon la position et les gestes de l'interacteur.
 * *ceci est inspiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
 
 
