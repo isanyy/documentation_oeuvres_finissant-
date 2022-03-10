@@ -48,7 +48,7 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 
 2) Conception sonore sessions3 (pour crée la bande son qui sera ensuite joué lors de la mise en oeuvre)
 
-3) espace inteactif session 5 ( pour contrôler tout les dispositifs qui seront utilisé pour permetre a l'oeuvre de fonctionner, tels que le son, les lumières et la bande vidéo)
+3) espace interactif session 5 ( pour contrôler tout les dispositifs qui seront utilisé pour permetre a l'oeuvre de fonctionner, tels que le son, les lumières et la bande vidéo)
 
 une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
 une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
