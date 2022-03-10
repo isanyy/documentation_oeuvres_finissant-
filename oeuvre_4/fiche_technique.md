@@ -47,6 +47,11 @@ L'ambiance est du type muséal où l'on retrouve des caractéristiques communes 
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/image_ecran.jpg)
 ![image](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/journal/medias/podium.jpeg)
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_4/medias/plan_technique.png)
+![image]()
+* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+
+
 
 
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation:
