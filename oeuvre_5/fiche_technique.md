@@ -17,17 +17,46 @@ Au cours de l’expérience, vous pourrez vivre les différentes époques auxque
 
 L'oeuvre est installé dans le petit studio du Cégep,
 
-Pour son fonctionnement elle utilise les projecteurs (3) ainsi que les hauts parleurs (4) présent dans le petit studio.
+Pour son fonctionnement elle utilise :
 
-Niveau Accesoire, les artistes ont utilisées une vielle horloge, un piedéstal ainsi qu'un ancien téléphone. 
+* 3 projecteurs 
+
+![projecteur](medias/oeuvre_5_projecteur_plafond.jpg)
+
+* 4 hauts parleurs
+
+![haut-parleur](medias/oeuvre_5_haut_parleur.jpg)
+
+* 1 ordinateur 
+
+![ordinateur](medias/oeuvre_5_ordinateur.jpg)
+
+# Accesoires 
+
+Niveau Accesoire, les artistes ont utilisées 
+
+* une vielle horloge 
+
+![vielle_horloge](medias/oeuvre_5_horloge.jpg)
+
+* un piedéstal 
+
+![piedéstal](medias/oeuvre_5_piedestrale.jpg)
+
+* un ancien téléphone. 
+
+![ancien_telephone](medias/oeuvre_5_ancien_téléphone.jpeg)
 
 Pour pouvoir projeter les illustrations, le groupe a suspendu des voiles blancs permettant une visualisation sur le mur.
+
+![voile_blanc](medias/oeuvre_5_petit_studio.jpg)
+
 
 # Expérience Vécue 
 
 Les illustrations étaient bien excécutées et accompagner par des bandes sonores réaliser par le groupe eux mêmes.
 
-Sur la partie interraction, nous n'avons pas vu tester car les étudiants étaient encore entrain de monter l'oeuvre.
+Sur la partie interraction, nous n'avons pas pu tester car les étudiants étaient encore entrain de monter l'oeuvre.
 
 
 
