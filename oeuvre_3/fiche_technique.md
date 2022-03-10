@@ -45,19 +45,23 @@ Le type d'ambiance exploité est celle d'un jeu télévisé classique où l'on r
 ![image](https://github.com/isanyy/documentation_oeuvres_finissant-/blob/main/oeuvre_3/medias/plans_tecniques_branchement.png)
 
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
-Le but de jeu est de répondre à une multitude de question en appuyant sur la tablette se trouvant sur le piedestal. Le jeu posera des questions de plus en plus difficile et nous alloura, en même temps, moins de temps de pour y répondre. En sommme, nous somme attendu à écouter le personnage à l'écran afin d'interagir avec lui à l'aide la tablette électronique.
+Le but de jeu est de répondre à une multitude de question en appuyant sur la tablette se trouvant sur le piédestal. Le jeu posera des questions de plus en plus difficile et nous allouera, en même temps, moins de temps de pour y répondre. En bref, nous sommes attendus à écouter le personnage à l'écran afin d'interagir avec lui à l'aide la tablette électronique.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
 
-*1.* Programmation serveur Web
+*1.* Programmation interactive et bases de données: Afin d'acquérir les compétences nécessaires en programmation dans un contexte interactif et pour structurer les bases de données en vue de pouvoir les controlée.
 
-*2.* Espace interactif
+*2.* Espace interactif: Afin de créer des objets interactifs dans un espace physique.
 
-*3.* Programmation interactive et bases de données
+*3.* Contrôle de la qualité: Pour effectuer les différentes étapes de processus du test afin de produire une version finale du produit testé.
 
 # une technique qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+*MadMapper:* L’application de référence pour le mapping vidéo et les projections, les installations LED et les spectacles laser !
+* *ceci est tiré du site Madmapper* :https://madmapper.com/
 
 # une composante technologique qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+*Arduino:* C'est une plate-forme électronique open source basé sur du matériel et des logiciels faciles à utiliser. Il est destiné à tous ceux qui réalisent des projets interactifs. Dans ce cas, il est utilisé comme bouton d'arcade associé à des réponses aux questions énoncé.
+* *ceci est tiré du site Arduino* :https://www.arduino.cc/index.php
 
 
 
