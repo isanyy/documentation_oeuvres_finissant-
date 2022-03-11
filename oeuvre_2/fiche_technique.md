@@ -7,7 +7,7 @@ Nous avons eu la chance de visiter les coulisses des installations le 23 févrie
 
 L'oeuvre est décrite comme :
 
-[le site du projet](https://tim-montmorency.com/2022/projets/3-minutes)
+[le site du projet](https://github.com/noo-name/3-minutes/tree/9762b4647b8e10ac247ab1edb8e9492ccfd990ec)
 
 # Membres de l'équipe : 
 
@@ -24,7 +24,7 @@ Dans ce projet le temps sera exploité au sense propres, il sera aussi utiliser 
 
 # l'ambiance
  
-
+Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se sentir comme dans la peau d'un étudiant à l'ecole, donc un ambience enfentin, mais pas trop. L'équipe a beaucoup parlé du concept d'un casier. donc il devrait avoir à un certain point des corridor d'ecole et des son de calquement de casier en métal. Il y aura aussi une ambience de solitude de dessin au crayon à la mine fonc
 # l'installation en cours dans les studios (photos à l'appui)
 
 
