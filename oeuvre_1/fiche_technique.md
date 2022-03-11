@@ -36,6 +36,7 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 
 # l'installation en cours dans les studios (photos à l'appui)
 [Les photos proviennent du github de l'équipe](https://github.com/task-tim/Chere-Sasha/tree/main/docs/journal#semaine-5)
+![photo de l'instalation en cour](medias/chere_sasha_global_en_cour.jpg)
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![croquis plantation](croquis/plantation_chere_sasha.jpg)
