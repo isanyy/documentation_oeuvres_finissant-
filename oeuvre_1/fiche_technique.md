@@ -40,8 +40,9 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![croquis plantation](croquis/plantation_chere_sasha.jpg)
 
-# ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+# ce qui sera attendu de vous, en tant qu'utilisateur
 
+Cet oeuvre est une instalation interactive qui va insité l'utilisateur à se déplacer dans la chambre de Sasha qui sera divisé en deux. Elle sera divisé en deux pour représenter deux passages dans sa vie. Dans l'instalation il y aura plusieurs pièces de mobillier et object qui seront disposé a plusieur endroit. par example, un telephone cellulaire qui va jouer un vidéo quand l'utilisateur interagie avec celui-ci. Ensuite, à la fin de l'expérience l'utilisateur sera invité à laisser un mot à Sasha qui sera ensuite projeter sur le mur de sa chambre. 
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
 1) Programmation interactive et base de données session 3 / proggramation serveur web session 4 (pour programmer le site web qui recevra les messages, les stocker pour ensuite les projeter.
