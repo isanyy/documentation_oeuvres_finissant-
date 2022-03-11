@@ -14,7 +14,7 @@ Cette personne entre dans le jeu télévisé fictif Jeu Temporel pour montrer so
 
 Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
-* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
+[Site du projet](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
 # Membres de l'équipe 
 
