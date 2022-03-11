@@ -18,27 +18,30 @@ L'oeuvre est décrite comme :
 * Samuel Poulin 
 
 
-- Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en **citant bien sa source**) 
-- Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-- Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
-- Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-- Expérience vécue :
-     
-    - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-     
-    - Ce qui vous a plu, vous a donné des idées et justifications
-      
-    - Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
- 
- - Références 
+# Le thème du temps
+  Dans ce projet le thème du temps est exploité de façons à mettre en parralèlle deux passages de la vie de sasha en présentent sont environement et son étas d'esprit en quelques sortes. Le temps sera aussi expérimenté avec un ordinateur qui permettera aux utilisateurs de laisser un mot en le tapant sur un ordinateur et ils seront tous diffusé sur un mur.
 
 
+# l'ambiance
+  il y aura deux type d'ambience pour illustrer les deux moment de sa vie. En premier, quand elle est adolescente il y aura une ambiance de chambre en desorde, goutte de pluie dans les fenêtres et un ambiance plutot lourde et déprimé. Ensuite, quand elle sera adulte tout semblera plus leger avec des couleur tels que le blanc et un style plus épurer et minimaliste.
 
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+# l'installation en cours dans les studios (photos à l'appui)
+
+
+# le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+![croquis plantation](croquis/plantation_chere_sasha.jpg)
+
+# ce qui sera attendu de vous, en tant qu'utilisateur
+
+Cet oeuvre est une instalation interactive qui va insité l'utilisateur à se déplacer dans la chambre de Sasha qui sera divisé en deux. Elle sera divisé en deux pour représenter deux passages dans sa vie. Dans l'instalation il y aura plusieurs pièces de mobillier et object qui seront disposé a plusieur endroit. par example, un telephone cellulaire qui va jouer un vidéo quand l'utilisateur interagie avec celui-ci. Ensuite, à la fin de l'expérience l'utilisateur sera invité à laisser un mot à Sasha qui sera ensuite projeter sur le mur de sa chambre. 
+
+# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
+1) Programmation interactive et base de données session 3 / proggramation serveur web session 4 (pour programmer le site web qui recevra les messages, les stocker pour ensuite les projeter.
+
+2) Conception sonore sessions3 (pour crée la bande son qui sera ensuite joué lors de la mise en oeuvre)
+
+3) espace interactif session 5 ( pour contrôler tout les dispositifs qui seront utilisé pour permetre a l'oeuvre de fonctionner, tels que le son, les lumières et la bande vidéo)
+
+une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
+une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 
