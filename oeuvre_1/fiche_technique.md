@@ -34,15 +34,20 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 # l'ambiance
   il y aura deux type d'ambience pour illustrer les deux moment de sa vie. En premier, quand elle est adolescente il y aura une ambiance de chambre en desorde, goutte de pluie dans les fenêtres et un ambiance plutot lourde et déprimé. Ensuite, quand elle sera adulte tout semblera plus leger avec des couleur tels que le blanc et un style plus épurer et minimaliste.
 
-# l'installation en cours dans les studios (photos à l'appui)
+# l'installation en cours dans les studios
 [Les photos proviennent du github de l'équipe](https://github.com/task-tim/Chere-Sasha/tree/main/docs/journal#semaine-5)
 
 ![photo de l'instalation en cour](medias/chere_sasha_global_en_cour.jpg)
 
+> vue d'ensemble de l'instalation en cour 
+
 ![photo du mur décoré](medias/chere_sasha_mur_decorer.jpg)
+
+> préparation d'un mur qui va faire partie de la mise-en-scene de la chambre de Sasha
 
 ![photo projecteur et hauts parleurs](medias/chere_sasha_projecteur_haut_parleur.jpg)
 
+> Instalation de hauts parleurs et projecteur
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![croquis plantation](croquis/plantation_chere_sasha.jpg)
