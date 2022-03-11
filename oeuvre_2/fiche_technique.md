@@ -19,7 +19,7 @@ L'oeuvre est décrite comme :
 
 
 # Le thème du temps
-  Dans ce projet le thème du temps est exploité de façons à mettre en parralèlle deux passages de la vie de sasha en présentent sont environement et son étas d'esprit en quelques sortes. Le temps sera aussi expérimenté avec un ordinateur qui permettera aux utilisateurs de laisser un mot en le tapant sur un ordinateur et ils seront tous diffusé sur un mur.
+Dans ce projet le temps sera exploité au sense propres, il sera aussi utiliser pour dénoncer un message.
 
 
 # l'ambiance
