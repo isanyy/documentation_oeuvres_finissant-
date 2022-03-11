@@ -24,7 +24,7 @@ Dans ce projet le temps sera exploité au sense propres, il sera aussi utiliser 
 
 # l'ambiance
  
-Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se sentir comme dans la peau d'un étudiant à l'ecole, donc un ambience enfentin, mais pas trop. L'équipe a beaucoup parlé du concept d'un casier. donc il devrait avoir à un certain point des corridor d'ecole et des son de calquement de casier en métal. Il y aura aussi une ambience de solitude de dessin au crayon à la mine foncer
+Premièrement, 3 minutes est un un jeu en réalité virtuelle l'utilisateur va se sentir comme dans la peau d'un étudiant à l'ecole, donc un ambience enfentin, mais pas trop. L'équipe a beaucoup parlé du concept d'un casier. donc il devrait avoir à un certain point des corridor d'ecole et des son de calquement de casier en métal. Il y aura aussi une ambience de solitude de dessin au crayon à la mine foncer
 
 # l'installation en cours dans les studios
 
@@ -42,15 +42,15 @@ Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se
 
 # ce qui sera attendu de vous, en tant qu'utilisateur
 
-Cet oeuvre est une instalation interactive qui va insité l'utilisateur à se déplacer dans la chambre de Sasha qui sera divisé en deux. Elle sera divisé en deux pour représenter deux passages dans sa vie. Dans l'instalation il y aura plusieurs pièces de mobillier et object qui seront disposé a plusieur endroit. par example, un telephone cellulaire qui va jouer un vidéo quand l'utilisateur interagie avec celui-ci. Ensuite, à la fin de l'expérience l'utilisateur sera invité à laisser un mot à Sasha qui sera ensuite projeter sur le mur de sa chambre. 
+Premièrement, 3 minutes est un jeu de réalité virtuelle qui va vous immerserer dans la vie d'un jeune qui se fait intimider. l'utilisateur sera appellé a interagir avec plusieur objects en réalité virtuelle et sera immersé dans un monde virtuelle. 
+
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet (voir la grille de cours du programme)
-1) Programmation interactive et base de données session 3 / proggramation serveur web session 4 (pour programmer le site web qui recevra les messages, les stocker pour ensuite les projeter.
+1) Réalité virtuelle session 5 (pour créer des expériences immersives et jeux en réalité virtuelle)
 
-2) Conception sonore sessions3 (pour crée la bande son qui sera ensuite joué lors de la mise en oeuvre)
+2) Conception sonore interactive sessions 4 (pour créer des univers sonores qui seront interactives)
 
-3) espace interactif session 5 ( pour contrôler tout les dispositifs qui seront utilisé pour permetre a l'oeuvre de fonctionner, tels que le son, les lumières et la bande vidéo)
+3) Animation 3D session 4(Pour créer les modèls 3D et environnements 3D avant d'être importé dans les logiciels d'intégrations pour la réalité virtuelle)
 
-une technique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas
-une composante technologique* qui sera utilisée dans l'une des oeuvres et que vous ne connaissiez pas pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+
 
