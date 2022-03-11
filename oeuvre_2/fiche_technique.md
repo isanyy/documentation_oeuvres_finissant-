@@ -31,7 +31,7 @@ Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se
 
 > Voici à quoi l'instalation ressemblera
 
-![Photo de l'ordinateur qui controlera l'expérience]()
+![Photo de l'ordinateur qui controlera l'expérience](media/3_minutes_ordinateur.jpg)
 
 > Voici l'ordinateur qui contrôlera l'expérience
 
