@@ -24,7 +24,8 @@ Dans ce projet le temps sera exploité au sense propres, il sera aussi utiliser 
 
 # l'ambiance
  
-Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se sentir comme dans la peau d'un étudiant à l'ecole, donc un ambience enfentin, mais pas trop. L'équipe a beaucoup parlé du concept d'un casier. donc il devrait avoir à un certain point des corridor d'ecole et des son de calquement de casier en métal. Il y aura aussi une ambience de solitude de dessin au crayon à la mine fonc
+Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se sentir comme dans la peau d'un étudiant à l'ecole, donc un ambience enfentin, mais pas trop. L'équipe a beaucoup parlé du concept d'un casier. donc il devrait avoir à un certain point des corridor d'ecole et des son de calquement de casier en métal. Il y aura aussi une ambience de solitude de dessin au crayon à la mine foncer
+
 # l'installation en cours dans les studios
 
 ![Photo global de l'instalation](media/3_minutes_instalation_global.jpg)
