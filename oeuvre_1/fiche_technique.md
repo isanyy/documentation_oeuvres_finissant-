@@ -35,7 +35,7 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
   il y aura deux type d'ambience pour illustrer les deux moment de sa vie. En premier, quand elle est adolescente il y aura une ambiance de chambre en desorde, goutte de pluie dans les fenêtres et un ambiance plutot lourde et déprimé. Ensuite, quand elle sera adulte tout semblera plus leger avec des couleur tels que le blanc et un style plus épurer et minimaliste.
 
 # l'installation en cours dans les studios (photos à l'appui)
-
+[Les photos proviennent du github de l'équipe](https://github.com/task-tim/Chere-Sasha/tree/main/docs/journal#semaine-5)
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![croquis plantation](croquis/plantation_chere_sasha.jpg)
