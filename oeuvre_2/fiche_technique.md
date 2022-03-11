@@ -7,8 +7,8 @@ Nous avons eu la chance de visiter les coulisses des installations le 23 févrie
 
 L'oeuvre est décrite comme :
 
-
 [le site du projet](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html)
+
 # Membres de l'équipe : 
 
 * Naoufal Bensaiad
