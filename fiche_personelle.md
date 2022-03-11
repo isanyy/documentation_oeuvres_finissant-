@@ -1,7 +1,10 @@
 # Vincent Desjardins
 ## Technique que je ne connaissais pas
 Ce n'est pas neccessairement une technique mais plus un logiciel qui je ne connaissait pas. J'ai remarqué que presque tous les projets utilisaient le logiciel Max créer par autodesk. Ce logiciel premet au créateurs de lier tous les éléments de leur projet. Ce logiciel permet de programmer des séquences de son, le mapping de leur visuelle sur les projecteurs et tout aspects interactif pour leur permettre d'intéragire entre eu.
+
 ## Composante technologique que je ne connaissait pas
+
+
 
 ## Ordre des projets
 1) L'horloge de l'apocalypse
@@ -28,30 +31,30 @@ Comme le Jeu temporel je n'est pas l'impression que c'est un concept totalement 
 
 J'ai de la difficulter a noté ce projet, car leur vidéo de présentation n'étais pas top et les étudiant n'étaient pas présent lors de la visite donc je ne pouvais pas poser mes questions. 
 
-## Ressentie et expérimentation anticippé des expériences
+## Ressentie et expérimentation anticipé des expériences
 ### L'horloge de l'apocalypse
 
 Cette instalation est situé dans le studio de son, elle sera intime grace au context dans lequel elle se situe physiquement. ensuite, le systeme de son quadraphonique va vraiment permettre à l'utilisateur d'etre immersé dans l'expérience  
 
 ### Chronaufrage
 
-
+Ce que j'anticipe de cette oeuvre c'est une expérimentation d'une exposition muséale en version réalité augmenté et interactif.
 
 ### Distorsion collective
 
-
+ce que j'anticipe par rapport à cette oeuvre c'est de voir en réalité virtuelle la perspective d'un autre étudiant vis-à-vis la pandémie, car je croit que nous avons tous vécu la pandémie d'une façon différente, mais probablement simmilaire sur quelques aspects.
 
 ### Jeu temporel
 
+Ce que j'anticipe de cet expérience c'est la facilité avec la qu'elle on va intéragire avec l'oeuvre. Je sent que cet oeuvre même si le message va être puissant et nous faire réfléchire, le jeu va avoir un flow qui va permettre a l'oeuvre d'être fun et facile d'intéragire avec elle-ci.
 
+### Chère Sasha
 
-### Chère sasha
-
-
+Ce que j'anticipe de cette oeuvre c'est un pièce qui va prendre vie en quelque sorte. On va pouvoir entrer dans un univers qui va être divisé en deux et nous permettre de mettre en parralèlle deux moment de la vie de sasha. 
 
 ### 3 minutes
 
-
+ce que j'anticipe de cette oeuvre c'est un atmosphère lourd, car juste le petit couloir dans lequelle on devra marcher pour se rendre au poste ou il y a la station de réalité virtuelle, est petit et donne l'impression d'être renfermé
 
 
 # Yanis Tadjine
