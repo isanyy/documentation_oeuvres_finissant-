@@ -41,6 +41,7 @@ Le public est appelé à découvrir que les deux vies projetées devant eux sont
 
 ![photo du mur décoré](medias/chere_sasha_mur_decorer.jpg)
 
+![photo projecteur et hauts parleurs](medias/chere_sasha_projecteur_haut_parleur.jpg)
 
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
