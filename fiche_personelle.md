@@ -18,9 +18,15 @@ Pour ce projet ce qui me semble intérresant c'est simplement l'histoire, car il
 
 4) Jeu temporel
 
+J'ai mis en quatrième position, car le jeu temporel me fait penser a quelque chose que j'ai déja vue a quelque part, même si le projet je crois qui va être super bien réaliser, mais ne me semble pas super originale.
+
 5) Chère sasha
 
+Comme le Jeu temporel je n'est pas l'impression que c'est un concept totalement nouveau.
+
 6) 3 minutes
+
+J'ai de la difficulter a noté ce projet, car leur vidéo de présentation n'étais pas top et les étudiant n'étaient pas présetn lors de la visite donc je ne pouvais pas poser mes questions. 
 
 ## ressentie et expérimentation anticippé des expériences
 ### 1
