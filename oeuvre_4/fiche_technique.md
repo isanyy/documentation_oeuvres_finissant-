@@ -12,7 +12,7 @@ Devant lui se trouve 4 grands tableaux immobiles et quelques petits tableaux.
 
 Quand le participant s'arrête et fait face à un des grands tableaux, ce dernier s'anime et intéragit selon la position ou bien les mouvements de l'interacteur.
 
-* *ceci est tiré du site TIM Montmorency* : https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
+[Site du projet](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 
 # Membres de l'équipe : 
 
