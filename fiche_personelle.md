@@ -29,12 +29,30 @@ Comme le Jeu temporel je n'est pas l'impression que c'est un concept totalement 
 J'ai de la difficulter a noté ce projet, car leur vidéo de présentation n'étais pas top et les étudiant n'étaient pas présent lors de la visite donc je ne pouvais pas poser mes questions. 
 
 ## Ressentie et expérimentation anticippé des expériences
-### 1
-### 2
-### 3
-### 4
-### 5
-### 6
+### L'horloge de l'apocalypse
+
+Cette instalation est situé dans le studio de son, elle sera intime grace au context dans lequel elle se situe physiquement. ensuite, le systeme de son quadraphonique va vraiment permettre à l'utilisateur d'etre immersé dans l'expérience  
+
+### Chronaufrage
+
+
+
+### Distorsion collective
+
+
+
+### Jeu temporel
+
+
+
+### Chère sasha
+
+
+
+### 3 minutes
+
+
+
 
 # Yanis Tadjine
 ## Technique que je ne connaissais pas
