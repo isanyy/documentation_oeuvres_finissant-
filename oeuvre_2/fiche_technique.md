@@ -36,7 +36,7 @@ Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se
 > Voici l'ordinateur qui contrôlera l'expérience
 
 # le schéma de l'installation prévue 
-![croquis plantation]()
+![croquis plantation](media/3_minutes_plantation.png)
 
 # ce qui sera attendu de vous, en tant qu'utilisateur
 
