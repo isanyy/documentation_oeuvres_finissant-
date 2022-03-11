@@ -7,7 +7,7 @@ Nous avons eu la chance de visiter les coulisses des installations le 23 févrie
 
 L'oeuvre est décrite comme :
 
-[le site du projet](https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html)
+[le site du projet](https://tim-montmorency.com/2022/projets/3-minutes)
 
 # Membres de l'équipe : 
 
@@ -19,17 +19,17 @@ L'oeuvre est décrite comme :
 
 
 # Le thème du temps
-Dans ce projet le temps sera exploité au sense propres, il sera aussi utiliser pour dénoncer un message.
+Dans ce projet le temps sera exploité au sense propres, il sera aussi utiliser pour dénoncer un message. Le massage que dans la peau d'un jeune qui se fait intimidé 3 minutes ces interminable.
 
 
 # l'ambiance
-  il y aura deux type d'ambience pour illustrer les deux moment de sa vie. En premier, quand elle est adolescente il y aura une ambiance de chambre en desorde, goutte de pluie dans les fenêtres et un ambiance plutot lourde et déprimé. Ensuite, quand elle sera adulte tout semblera plus leger avec des couleur tels que le blanc et un style plus épurer et minimaliste.
+ 
 
 # l'installation en cours dans les studios (photos à l'appui)
 
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-![croquis plantation](croquis/plantation_chere_sasha.jpg)
+![croquis plantation]()
 
 # ce qui sera attendu de vous, en tant qu'utilisateur
 
