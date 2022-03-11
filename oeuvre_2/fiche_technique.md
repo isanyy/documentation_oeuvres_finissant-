@@ -37,6 +37,7 @@ Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se
 
 # le schéma de l'installation prévue 
 ![croquis plantation](media/3_minutes_plantation.png)
+[source plantationo](https://github.com/noo-name/3-minutes/tree/9762b4647b8e10ac247ab1edb8e9492ccfd990ec/docs/preproduction)
 
 # ce qui sera attendu de vous, en tant qu'utilisateur
 
