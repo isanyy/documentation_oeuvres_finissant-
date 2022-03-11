@@ -3,7 +3,7 @@
 L'horloge de l'apocalypse est une installations créer et réaliser par les finissant de Troisième année du programme TIM (Techniques d'intégrations multimédias)
 Les étudiantes/étudiants presenteront leurs installations le lundi 28 mars dans le petit Studio, dans le cégep Montmorency (Laval).
 
-Les finissant/es ont eu pour thème de créer leurs installations.
+Les finissant/es ont eu pour thème de créer leurs installations au tours de la notion du temps.
 
 Nous avons eu la chance de visiter les coulisses des installations le 23 février 2022.
 
@@ -94,21 +94,3 @@ Sur la partie interraction, nous n'avons pas pu tester car les étudiants étaie
 * Tristan Girard-Montpetit 
 
 * Maxime De Falco 
-
-
-
-
-
-
-
-
-
-
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
-
