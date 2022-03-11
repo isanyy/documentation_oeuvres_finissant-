@@ -26,13 +26,14 @@ Dans ce projet le temps sera exploité au sense propres, il sera aussi utiliser 
  
 Premièrement, 3 minutes est un un jeu en réalité virtuel. l'utilisateur va se sentir comme dans la peau d'un étudiant à l'ecole, donc un ambience enfentin, mais pas trop. L'équipe a beaucoup parlé du concept d'un casier. donc il devrait avoir à un certain point des corridor d'ecole et des son de calquement de casier en métal. Il y aura aussi une ambience de solitude de dessin au crayon à la mine fonc
 # l'installation en cours dans les studios (photos à l'appui)
-[les photos proviennent du site git hub du projet]()
 
 ![Photo global de l'instalation](media/3_minutes_instalation_global.jpg)
 
 > Voici à quoi l'instalation ressemblera
 
 ![Photo de l'ordinateur qui controlera l'expérience]()
+
+> Voici l'ordinateur qui contrôlera l'expérience
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![croquis plantation]()
