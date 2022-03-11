@@ -3,7 +3,7 @@
 Distorsion collective est une installations créer et réaliser par les finissant de Troisième année du programme TIM (Techniques d'intégrations multimédias)
 Les étudiantes/étudiants presenteront leurs installations le lundi 28 mars dans le petit Studio, dans le cégep Montmorency (Laval).
 
-Les finissant/es ont eu pour thème de créer leurs installations.
+Les finissant/es ont eu pour thème de créer leurs installations au tours de la notion du temps.
 
 Nous avons eu la chance de visiter les coulisses des installations le 23 février 2022.
 
