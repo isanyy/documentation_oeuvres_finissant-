@@ -64,15 +64,67 @@ ce que j'anticipe de cette oeuvre c'est un atmosphère lourd, car juste le petit
 
 # Yanis Tadjine
 ## Technique que je ne connaissais pas
+
+Max 8 est un logiciel de création d'effet sonore et d'instrument permettant de créer des performances en live.
+
 ## Composante technologique que je ne connaissait pas
+
+Kinect, je connaissais le fonctionnement mais je ne savais pas qu'il etait possible de la controler à distance.
+
 ## Ordre des projets
+
+1) L'horloge de l'apocalypse
+
+C'est l'installation que j'ai le plus aimé de part la création visuelle que part la création sonores 
+
+2) Chronaufrage
+
+Cette installation est compliqué à documenter car le groupe n'étais pas présent malheuresement.
+
+3) Distorsion collective
+
+c'est un sujet qui fais echo à beaucoup de personnes dont moi.
+
+4) Jeu temporel
+
+Proposer de voir de l'art en détail me semble vraiment intérressant.
+
+5) Chère sasha
+
+Bon sujet
+
+
+6) 3 minutes
+
+L'endroit de l'installation est vraiment intérressant.
+
+
 ## Ressentie et expérimentation anticippé des expériences
+
 ### 1
+
+Les interlocuteurs vont vraiment aimé cette installations. 
+
+
 ### 2
+
+Bon sujet 
+
 ### 3
+
+Un sujet qui est d'actualité et qui sensibilise 
+
 ### 4
+
+intéressant et immersif
+
 ### 5
+
+Bon sujet 
+
 ### 6
+
+Un endroit stressant 
 
 # Kevin Laniel
 ## Technique que je ne connaissais pas
