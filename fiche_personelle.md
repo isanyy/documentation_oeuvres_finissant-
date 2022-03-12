@@ -3,7 +3,12 @@
 Ce n'est pas neccessairement une technique mais plus un logiciel qui je ne connaissait pas. J'ai remarqué que presque tous les projets utilisaient le logiciel Max créer par autodesk. Ce logiciel premet au créateurs de lier tous les éléments de leur projet. Ce logiciel permet de programmer des séquences de son, le mapping de leur visuelle sur les projecteurs et tout aspects interactif pour leur permettre d'intéragire entre eu.
 
 ## Composante technologique que je ne connaissait pas
+### La kinect
+Je connais la kinect, car quand j'étais plus jeune nous en avions une à la maison pour jouer a des jeux sur la Xbox 360, mais je ne savait pas que la kinect pouvais être utilisé dans des contextes comme les instalations interactives.
+ 
+Après quelque recherche sur le web j'ai découvert que maintenant les gens ont trouvé comment utiliser la kinect à different fins, tels que la conception de prototypes dans plusieurs domaines et dans le contexte de se cour pour créer des instalations intéractive. Cela fait beaucoup de sense que les artistes multimédias utilise cet outils pour capter des mouvements et les transformer en données pour ajouter de l'interactions à leurs oeuvres. Les artistes on redéfinit l'utilisation de la kinect, car les capteur de ce genre peuvent être coûteux et demende de la préparation pour les proggramer et etc. Comparé à la kinect qui est déja prête à être utilisé et qui est relativement peu coûteuse. 
 
+[7 façon d'utiliser la Kinect avec les Arduinos](https://www.intorobotics.com/7-tutorials-start-working-kinect-arduino/)
 
 
 ## Ordre des projets
