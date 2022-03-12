@@ -24,32 +24,41 @@ Pour son fonctionnement elle utilise :
 * 2 Hauts-parleurs
 
 * 2 fils XLR 3 conducteurs de 15' (M->F)
+![cable XLR](medias/oeuvre_6_cable_xlr_mf_3.jpeg)
 
 * 1 cable USB avec 2 sorties 
+![cable_usb_2_sorties](medias/oeuvre_6_cable_usb_2_sorties.jpg)
 
 # *vidéo*:
 
 * 1 projecteur vidéo grand angle 
+![projecteur_grand_angle](medias/oeuvre_6_grand_angle.jpeg)
 
 * 1 système d'accrochage 
 
 * 1 Kinect 
 
+![kinect](medias/oeuvre_6_kinect.webp)
+
 * 1 extender HDMI
+* ![extender_HDMI](medias/oeuvre_6_extender_hdmi.jpg)
 
 # *lumière*:
 
 * 3 lumière LED RGBAW DMX
+![lumiere_led](medias/oeuvre_6_LED_RGBAW_DMX.jpeg)
 
-* 3 fils XLR 3 conducteurs de 20'
+* 3 files XLR 3 conducteurs de 20'
+![files_XLR](medias/oeuvre_6_cable_usb_2_sorties.jpg)
 
 # *éléctricité*: 
 
 * 2 cordon IEC (pour l'alimentation des haut-parleurs)
-
+![cordon_IEC](medias/oeuvre_6_cordon_IEC.jpeg)
 # *réseau*: 
 
 * 4 câbles Ethernet
+![câbles_ethernet](medias/oeuvre_6_cable_ethernet.jpg)
 
 # *ordinateur*: 
 
@@ -58,8 +67,26 @@ Pour son fonctionnement elle utilise :
 # *autres: 
 
 * Casque VR (réalité virtuelle)  Oculus 
+![casque_VR](medias/oeuvre_6_casque_vr_oculus.jpeg)
 
 La participante/participant va être invité à s'assoeir sur la chaise et mettre le Casque VR sur lui, iel aura en face de lui un ordinateur.
+
+# Logiciel utiliser : 
+
+* modelisation 3D (maya)
+![logiciel_maya](medias/oeuvre_6_logiciel_maya.webp)
+
+
+* Modélisation 3D (unity)
+![logiciel_unity](medias/oeuvre_6_logiciel_unity.jpg)
+
+# Techniques non connus :
+* Unity
+
+# Composante de la technique :
+* Unity est une platforme de développement fait pour les développeur/développeuse 2D/3D notamment fait pour les jeux-vidéos.
+
+
 
 # Expérience Vécue: 
 
@@ -73,15 +100,7 @@ Je n'ai pas avoir accès à l'oeuvre car les étudiants n'étaient pas présent.
 
 
 
- - Références 
-
-
-
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+ # Références :
+ 
+L'ensemble des photos de références viennent d'internet.
 
