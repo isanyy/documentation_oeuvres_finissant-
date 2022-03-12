@@ -47,7 +47,7 @@ Ce que j'anticipe de cette oeuvre c'est une expérimentation d'une exposition mu
 
 ### Distorsion collective
 
-ce que j'anticipe par rapport à cette oeuvre c'est de voir en réalité virtuelle la perspective d'un autre étudiant vis-à-vis la pandémie, car je croit que nous avons tous vécu la pandémie d'une façon différente, mais probablement simmilaire sur quelques aspects.
+Ce que j'anticipe par rapport à cette oeuvre c'est de voir en réalité virtuelle la perspective d'un autre étudiant vis-à-vis la pandémie, car je croit que nous avons tous vécu la pandémie d'une façon différente, mais probablement simmilaire sur quelques aspects.
 
 ### Jeu temporel
 
@@ -55,7 +55,7 @@ Ce que j'anticipe de cet expérience c'est la facilité avec la qu'elle on va in
 
 ### Chère Sasha
 
-Ce que j'anticipe de cette oeuvre c'est un pièce qui va prendre vie en quelque sorte. On va pouvoir entrer dans un univers qui va être divisé en deux et nous permettre de mettre en parralèlle deux moment de la vie de sasha. 
+Ce que j'anticipe de cette oeuvre, c'est un pièce qui va prendre vie en quelque sorte. On va pouvoir entrer dans un univers qui va être divisé en deux et nous permettre de mettre en parralèlle deux moment de la vie de sasha. 
 
 ### 3 minutes
 
@@ -107,9 +107,15 @@ L'aspect immersif de l'oeuvre à vraiment était le point le plus intéressant d
 J'ai apprécié le choix d'utiliser la réalité virtuelle sur ce projet, mais j'ai trouvé que le lien avec le temps n'y était pas bien incrémenté. Également, l'espace y était beaucoup trop étroit ce qui donnait un effet moins grandiose au projet.
 
 ## Ressentie et expérimentation anticippé des expériences
-### 1 
-### 2
-### 3
-### 4
-### 5
-### 6
+### 1 L'horloge de l'apocalypse
+À ma visite à la préproduction, j'ai plus ressenti l'ambiance immersive avec les nombreux speakers ainsi que les images composées d'un thème unique à chacun. On éprouvait un sentiment d'insécurité et de peur lors de la scène de la guerre et un sentiment plus joyeux lors de la de fête foraine.
+### 2 Chronaufrage
+J'anticipe un effet plus interactif et magique lorsque la kinect transformera nos gestes et mouvements en celle de la jeune fille dans les tableaux.
+### 3 Jeu temporel
+En parcourant leur site web, le projet m'a donné un avant gout de jeu télévisée classique où on y trouve un hôte charismatique donnant une ambiance amusante et vivantes.
+### 4 Distorsion collective 
+Ce que j'anticipe de cette oeuvre est un monde réaliste et grandement inspiré de celui dont la plupart des adolescents d'aujourd'hui ont vécue. On y retrouvera surement un ambiance plus sombre et triste où l'étudiant commencait à sombrer dans une post-dépression.
+### 5 Chère sasha
+J'anticipe un monde divisée d'émotions et de thématique. On pourrait y trouver la vie difficlle et angoissante de Sasha lorsqu'elle était petite qui pourrait comporter un ambiance plus froid et lourd, et sa vie d'adulte où elle a trouver sa voix et est maintenant plus heureuse.
+### 6 3 minutes
+J'anticipe un monde classique de jeu à réalité virtuelle où le décor est simple, mais l'ambiance ainsi que les mécaniques de jeu soient immersives et amusantes.
