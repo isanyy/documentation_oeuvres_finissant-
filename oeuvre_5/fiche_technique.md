@@ -81,8 +81,6 @@ Sur la partie interraction, nous n'avons pas pu tester car les étudiants étaie
 
 
 
-
-
 # Membres de l'équipe 
 
 * Maxime Sabourin 
